@@ -21,11 +21,11 @@ npm install react react-dom axios bootstrap
 ```
 5. Clone the repository from GitHub (replace `<username>` with your GitHub username):
 ```
-git clone https://github.com/<username>/react-blog-app.git
+git clone https://github.com/soyuz43/learning-moments.git
 ```
 6. Navigate to the project directory and run the application:
 ```
-cd react-blog-app
+cd learning-moments
 npm start
 ```
 7. Make sure to provide a database for the app to pull from, the original [faux database](https://github.com/soyuz43/learning-moments-api) is in a seperate git repo
