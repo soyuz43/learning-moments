@@ -28,7 +28,7 @@ git clone https://github.com/<username>/react-blog-app.git
 cd react-blog-app
 npm start
 ```
-7. Make sure to procide a database for the app to pull from, the original [faux database](https://github.com/soyuz43/learning-moments-api) is in a seperate git repo
+7. Make sure to proide a database for the app to pull from, the original [faux database](https://github.com/soyuz43/learning-moments-api) is in a seperate git repo
 
 ## Usage:
 1. The application opens in your default web browser.
